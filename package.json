@@ -1,0 +1,18 @@
+{
+  "name": "aluminum-hyacinth",
+  "version": "1.0.0",
+  "description": "Basic javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-crossthetiber:crossthetiber/aluminum-hyacinth"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.1"
+  }
+}
